@@ -10,7 +10,6 @@ Technologies include Ruby on Rails backend, PostgreSQL database, React.js fronte
 
 ## Installation
 
-rails new
 rails db:create db:migrate db:seed
 
 ## Usage
