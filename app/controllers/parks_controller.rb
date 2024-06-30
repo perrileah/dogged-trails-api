@@ -1,7 +1,6 @@
 class ParksController < ApplicationController
-
   def index
-    page_size = 5
+    page_size = 20
 
     @parks = Park.all.limit(page_size).offset(params[:page].to_i * page_size)
     render :index
