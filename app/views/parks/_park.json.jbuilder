@@ -1,0 +1,10 @@
+json.id park.id
+json.name park.name
+json.address park.address
+json.city park.city
+json.state park.state
+json.zipcode park.zipcode
+json.description park.description
+json.image_url park.image_url
+json.created_at park.created_at
+json.updated_at park.updated_at

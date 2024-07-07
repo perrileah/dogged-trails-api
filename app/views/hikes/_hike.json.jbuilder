@@ -1,0 +1,13 @@
+json.id hike.id
+json.name hike.name
+json.distance hike.distance
+json.time hike.time
+json.route_type hike.route_type
+json.description hike.description
+json.image_url hike.image_url
+json.latitude hike.latitude
+json.longitude hike.longitude
+json.user_id hike.user_id
+json.park_id hike.park_id
+json.created_at hike.created_at
+json.updated_at hike.updated_at
