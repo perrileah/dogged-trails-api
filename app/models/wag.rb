@@ -1,0 +1,2 @@
+class Wag < ApplicationRecord
+end
